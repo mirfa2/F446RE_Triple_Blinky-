@@ -1,0 +1,27 @@
+# --- STM32CubeIDE / Eclipse Specific ---
+.settings/
+*.launch
+*.jlink
+*.log
+
+# --- Build Outputs ---
+Debug/
+Release/
+*.elf
+*.map
+*.bin
+*.hex
+*.srec
+*.lst
+*.o
+*.d
+*.a
+*.su
+*.crl
+
+# --- Operating System Files ---
+Thumbs.db
+.DS_Store
+
+# --- CubeMX / Backup files ---
+*.bak
